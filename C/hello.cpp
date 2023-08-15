@@ -62,3 +62,5 @@ int main(void)
 
   return 0;
 }
+
+이렇게 하는 거구나
